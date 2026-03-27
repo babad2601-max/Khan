@@ -285,16 +285,15 @@
             <div id="step1" class="step max-w-lg text-center">
                 <div class="anim-child text-7xl mb-6 heart-beat">❤️</div>
                 <h1 class="anim-child text-4xl md:text-5xl font-bold text-gradient mb-4">Hey Beautiful (noureen).</h1>
-                <p class="anim-child text-gray-300 mb-8 text-lg">On your special day, I want you to know how amazing you are. Your smile brightens my world, your
-                    laughter is my favorite melody, and your presence makes every moment magical.</p>
+                <p class="anim-child text-gray-300 mb-8 text-lg">May Allah send you blessings from doors you never knocked on and paths you never knew existed.
+                    And Allah blesses you one day with what you wished for and more.</p>
                 <button id="start-btn" class="anim-child btn text-white">what makes you special</button>
             </div>
 
             <div id="step2" class="step max-w-xl text-center">
                 <div class="anim-child text-7xl mb-4">✨</div>
                 <h2 class="anim-child text-4xl md:text-5xl font-bold text-gradient mb-4"> Happy Birthday!</h2>
-                <p class="anim-child text-gray-300 mb-8 text-lg">On your special day, I want you to know how amazing you are. Your smile brightens my world, your
-                    laughter is my favorite melody, and your presence makes every moment magical.</p>
+                <p class="anim-child text-gray-300 mb-8 text-lg">Allah tumhari zindagi me itni barkat, sukoon aur khushiyan de ke har roz tumhari muskurahat aur bhi khoobsurat lage.</p>
                 <button id="next-btn-2" class="anim-child btn text-white">Discover More...</button>
             </div>
 
@@ -303,12 +302,12 @@
                 <div class="bento-grid">
                     <div class="anim-child bento-item bento-item-1 p-6 rounded-xl">
                         <h3 class="text-2xl font-bold text-pink-300 mb-2">✨ Your kindness</h3>
-                        <p class="text-gray-300">The way you care about others is truly inspiring. You have the biggest
-                            heart.</p>
+                        <p class="text-gray-300">Your kindness truly touches the heart.
+                            May Allah bless you with happiness always.</p>
                     </div>
                     <div class="anim-child bento-item p-6 rounded-xl">
                         <h3 class="text-2xl font-bold text-pink-300 mb-2">😊 Your smile</h3>
-                        <p class="text-gray-300">It lights up every room you enter and stays in my mind all day.</p>
+                        <p class="text-gray-300">Your smile is truly beautiful—may Allah keep it always.</p>
                     </div>
                     <div class="anim-child bento-item bento-item-3 p-6 rounded-xl">
                         <h3 class="text-2xl font-bold text-pink-300 mb-2">🌸 Your spirit</h3>
@@ -336,13 +335,14 @@
             <div id="step5" class="step max-w-lg text-center">
                 <div class="anim-child text-7xl mb-4">💖</div>
                 <h2 class="anim-child text-4xl md:text-5xl font-bold text-gradient mb-4">My barthday Wish For You</h2>
-                <p class="anim-child text-gray-300 mb-8 text-lg">May your year be filled with joy, laughter, and dreams come true. May you always know how special
-                    you are to me and to everyone lucky enough to know you..</p>
+                <p class="anim-child text-gray-300 mb-8 text-lg">Allah tumhari zindagi ko khushiyon, rehmaton aur barkaton se bhar de.
+                    Tumhara acha dil, tumhari narmi aur tumhari muskurahat hamesha yuhi roshan rahe.
+                    Allah tumhe har qadam par asani de. Ameen."</p>
                 <div class="h-28 flex items-center justify-center">
-                    <p id="final-wish" class="final-wish-text font-bold mt-6">Happy Birthday, Noureen ❤️</p>
+                    <p id="final-wish" class="final-wish-text font-bold mt-6">Janamdin Mubarak 🌙✨, NOUREEN ❤️</p>
                 </div>
                 <button id="confetti-btn" class="anim-child btn text-white mt-4">Let's Celebrate!</button>
-                <footer class="anim-child mt-2 text-gray-500 text-sm">made with ♥️ just for you. (nouree)</footer>
+                <footer class="anim-child mt-2 text-gray-500 text-sm">made with ♥️ just for you. (noureen)</footer>
             </div>
         </main>
     </div>
