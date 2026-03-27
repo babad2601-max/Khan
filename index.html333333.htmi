@@ -292,10 +292,9 @@
 
             <div id="step2" class="step max-w-xl text-center">
                 <div class="anim-child text-7xl mb-4">✨</div>
-                <h2 class="anim-child text-4xl md:text-5xl font-bold text-gradient mb-4">To My Wonderful Partner, Happy
-                    Birthday!</h2>
-                <p class="anim-child text-gray-300 mb-8 text-lg">Your presence illuminates my world. Another year older,
-                    another year more beautiful, inside and out. I cherish you deeply.</p>
+                <h2 class="anim-child text-4xl md:text-5xl font-bold text-gradient mb-4"> Happy Birthday!</h2>
+                <p class="anim-child text-gray-300 mb-8 text-lg">On your special day, I want you to know how amazing you are. Your smile brightens my world, your
+                    laughter is my favorite melody, and your presence makes every moment magical.</p>
                 <button id="next-btn-2" class="anim-child btn text-white">Discover More...</button>
             </div>
 
