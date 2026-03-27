@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>For My Dearest Love ❤️</title>
+    <title>For someone special ❤️</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js"></script>
@@ -284,10 +284,10 @@
         <main id="step-container">
             <div id="step1" class="step max-w-lg text-center">
                 <div class="anim-child text-7xl mb-6 heart-beat">❤️</div>
-                <h1 class="anim-child text-4xl md:text-5xl font-bold text-gradient mb-4">Hello, My Love.</h1>
-                <p class="anim-child text-gray-300 mb-8 text-lg">Every beat of my heart whispers your name. On this
-                    special day, I wanted to create a small piece of magic just for you.</p>
-                <button id="start-btn" class="anim-child btn text-white">Unwrap My Feelings</button>
+                <h1 class="anim-child text-4xl md:text-5xl font-bold text-gradient mb-4">Hey Beautiful (noureen).</h1>
+                <p class="anim-child text-gray-300 mb-8 text-lg">On your special day, I want you to know how amazing you are. Your smile brightens my world, your
+                    laughter is my favorite melody, and your presence makes every moment magical.</p>
+                <button id="start-btn" class="anim-child btn text-white">what makes you special</button>
             </div>
 
             <div id="step2" class="step max-w-xl text-center">
@@ -300,52 +300,50 @@
             </div>
 
             <div id="step3" class="step max-w-4xl text-center">
-                <h2 class="anim-child text-4xl md:text-5xl font-bold text-gradient mb-8">Countless Reasons Why I Adore
-                    You</h2>
+                <h2 class="anim-child text-4xl md:text-5xl font-bold text-gradient mb-8">Here's why you're incredible</h2>
                 <div class="bento-grid">
                     <div class="anim-child bento-item bento-item-1 p-6 rounded-xl">
-                        <h3 class="text-2xl font-bold text-pink-300 mb-2">💖 Your Infectious Laughter</h3>
-                        <p class="text-gray-300">It's the most beautiful sound, a melody that brightens even the
-                            darkest days.</p>
+                        <h3 class="text-2xl font-bold text-pink-300 mb-2">✨ Your kindness</h3>
+                        <p class="text-gray-300">The way you care about others is truly inspiring. You have the biggest
+                            heart.</p>
                     </div>
                     <div class="anim-child bento-item p-6 rounded-xl">
-                        <h3 class="text-2xl font-bold text-pink-300 mb-2">🧠 Your Brilliant Mind</h3>
-                        <p class="text-gray-300">Intelligent, curious, and always surprising me with your insights.</p>
+                        <h3 class="text-2xl font-bold text-pink-300 mb-2">😊 Your smile</h3>
+                        <p class="text-gray-300">It lights up every room you enter and stays in my mind all day.</p>
                     </div>
                     <div class="anim-child bento-item bento-item-3 p-6 rounded-xl">
-                        <h3 class="text-2xl font-bold text-pink-300 mb-2">🌸 Your Gentle Soul</h3>
-                        <p class="text-gray-300">The kindness and empathy you extend to everyone around you is truly
-                            inspiring.</p>
+                        <h3 class="text-2xl font-bold text-pink-300 mb-2">🌸 Your spirit</h3>
+                        <p class="text-gray-300">Your passion and energy are contagious. You make life exciting!.</p>
                     </div>
                 </div>
-                <button id="next-btn-3" class="anim-child btn text-white mt-8">Remember Our Journey?</button>
+                <button id="next-btn-3" class="anim-child btn text-white mt-8">A Little surprise</button>
             </div>
 
             <div id="step4" class="step max-w-lg text-center">
-                <h2 class="anim-child text-4xl md:text-5xl font-bold text-gradient mb-6">A Snapshot of Our Story...</h2>
+                <h2 class="anim-child text-4xl md:text-5xl font-bold text-gradient mb-6">Remember When...</h2>
                 <div id="polaroid" class="anim-child mb-6">
                     <div id="polaroid-inner" class="rounded-lg shadow-2xl">
                         <img src="https://static.vecteezy.com/system/resources/previews/036/619/697/non_2x/ai-generated-couple-of-lovers-in-cartoon-style-on-transparent-background-png.png"
                             alt="A special memory" class="w-full h-72 object-cover rounded-md">
-                        <p class="text-center font-semibold mt-4 text-xl italic">"Us" – my favorite chapter.</p>
+                        <p class="text-center font-semibold mt-4 text-xl italic">(Imagine our favorite memory together here).</p>
                     </div>
                 </div>
-                <p class="anim-child text-gray-300 mb-8 text-lg">Every shared glance, every soft touch, every adventure
-                    with you becomes a cherished masterpiece in my heart.</p>
-                <button id="next-btn-4" class="anim-child btn text-white">One Final Thought...</button>
+                <p class="anim-child text-gray-300 mb-8 text-lg">Mujhe ajj bhi yaad hai jab mene tumhe pahli baar dekha tha tab 
+                    hum sayad class 1 me the tab se lekar ajj tak har roz may wo din yaar karta hu jis din tumne mujhse pahli baar baat ki thi.
+                    chahe wo shat me tuition jana ho ya school me milna (dikhna) har ek din mujhe ajj bhi acchi tarha yaad hai.</p>
+                <button id="next-btn-4" class="anim-child btn text-white">One last thing.</button>
             </div>
 
             <div id="step5" class="step max-w-lg text-center">
                 <div class="anim-child text-7xl mb-4">💖</div>
-                <h2 class="anim-child text-4xl md:text-5xl font-bold text-gradient mb-4">My Deepest Wish For You</h2>
-                <p class="anim-child text-gray-300 mb-8 text-lg">May this year be filled with boundless joy, new
-                    discoveries, and the realization of every dream your beautiful heart holds. You deserve it all.</p>
+                <h2 class="anim-child text-4xl md:text-5xl font-bold text-gradient mb-4">My barthday Wish For You</h2>
+                <p class="anim-child text-gray-300 mb-8 text-lg">May your year be filled with joy, laughter, and dreams come true. May you always know how special
+                    you are to me and to everyone lucky enough to know you..</p>
                 <div class="h-28 flex items-center justify-center">
-                    <p id="final-wish" class="final-wish-text font-bold mt-6">Happy Birthday, My Sweetest Love! ❤️</p>
+                    <p id="final-wish" class="final-wish-text font-bold mt-6">Happy Birthday, Noureen ❤️</p>
                 </div>
                 <button id="confetti-btn" class="anim-child btn text-white mt-4">Let's Celebrate!</button>
-                <footer class="anim-child mt-2 text-gray-500 text-sm">Crafted with endless love and a little bit of
-                    code, just for you.</footer>
+                <footer class="anim-child mt-2 text-gray-500 text-sm">made with ♥️ just for you. (nouree)</footer>
             </div>
         </main>
     </div>
